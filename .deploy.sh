@@ -1,1 +1,1 @@
-scp * root@uofg.fail:/var/www/html
+scp -r * root@uofg.fail:/var/www/html
